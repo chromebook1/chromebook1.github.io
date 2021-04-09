@@ -1,0 +1,30 @@
+h1,h3,h4{
+    Text-align:center; color:cyan;
+}
+div{
+    background-color:gray;
+}
+
+body{
+    background color:gray;
+    font-family:Padauk&display;
+}
+p{
+    color:red;
+}
+
+ul{
+    width:300px; 
+}
+td{
+    color:blue;
+}
+.Teal{
+    background-color:teal; color:blue;
+}
+iframe{
+    width:400px; height:200px;
+}
+li{
+    color:blue;
+}
